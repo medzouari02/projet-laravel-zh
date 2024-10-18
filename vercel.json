@@ -14,8 +14,7 @@
     "APP_ENV": "production",
     "APP_DEBUG": "true",
     "APP_URL": "https://vercel.com/zouarim215s-projects",
-    "APP_KEY": "base64:22bSbssJesr5+UC6TEudJ6QdEs0kYuUdslEskCYwgPM=",
-
+    "APP_KEY": "base64:FgoVwlyW1lB1nBd6CrBfahQ1d1yKU+VuXH/M+1hUfM4=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
